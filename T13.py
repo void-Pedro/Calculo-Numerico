@@ -1,3 +1,6 @@
+# Resolver um sistema 9x9 pelo método de Gaus Jordan com condensação pivotal e 
+# artitmética de ponto flutuante com 4 algarismos significativos
+
 from decimal import Decimal, getcontext
 import numpy as np
 import math

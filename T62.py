@@ -1,3 +1,5 @@
+# Discretização pelo método de Runge-Kutta de ordem 2
+
 import math
 
 def rangekutta(f, T, n, ordem, y0):

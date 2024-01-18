@@ -1,3 +1,5 @@
+# Interpolar 4 pontos no plano utilizando os polinômios de Lagrange
+
 from sympy import symbols, Rational
 
 # Pontos de interpolação

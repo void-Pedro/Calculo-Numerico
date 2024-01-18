@@ -1,3 +1,5 @@
+# Ajustando um polinômio de grau 9 a pontos dados
+
 import numpy as np
 
 points = np.array([(-1.0, -0.122), (-0.8, 0.044), (-0.6, -0.107), (-0.4, 0.288),

@@ -1,3 +1,5 @@
+# Interpolar 6 pontos no plano pelo Método de Newton
+
 def newton_interpolation(points):
     n = len(points)
     x_values, y_values = zip(*points)

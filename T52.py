@@ -1,3 +1,5 @@
+# Integração numérica pelo Método de Simpson
+
 import math
 
 def f(x):

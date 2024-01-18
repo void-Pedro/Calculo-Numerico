@@ -1,3 +1,5 @@
+# Ajustando f(x)=a+b⋅(x−1)² a y=x³−3x num intervalo [x0,x1] pelo método dos mínimos quadrados
+
 import numpy as np
 from scipy.integrate import quad
 from scipy.optimize import minimize

@@ -1,3 +1,5 @@
+# Ajustando um polinômio de grau 3 a y=a⋅cos(x)+b⋅sen(x) via família ortonormal de polinômios
+
 import sympy as sp
 
 x = sp.symbols('x')

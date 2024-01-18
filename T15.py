@@ -1,3 +1,5 @@
+# Determinar a quantidade de iterações necessárias para um sistema 9x9 (Jacobi e Gauss-Seidel) com critério de parada em 4 casas decimais exatas
+
 import numpy as np
 
 def truncate(number, n):

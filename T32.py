@@ -1,3 +1,5 @@
+# Iterações pelo Método de Newton
+
 def f(x):
     return 1.006*x**5 + 3.006*x**2 - 1.006*x + 1.09
 

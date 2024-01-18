@@ -1,3 +1,5 @@
+# Integração numérica pelo Método dos Trapézios
+
 import math
 
 def truncate(x):

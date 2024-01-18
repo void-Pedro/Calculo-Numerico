@@ -1,3 +1,5 @@
+# Zero de f(x)=x²−cos(x) via função de iteração φ(x)=x+α f(x)
+
 import math
 
 def f(x):

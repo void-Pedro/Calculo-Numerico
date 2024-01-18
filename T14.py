@@ -1,3 +1,5 @@
+# Resolver um sistema 9x9 com 4 algarismos significativos e realizar três etapas de refinamento
+
 from decimal import Decimal, getcontext
 import numpy as np
 

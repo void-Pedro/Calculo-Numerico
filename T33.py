@@ -1,3 +1,5 @@
+# Método de Newton em dimensão mais alta - problema da catenária
+
 import math
 x0 = -2.5
 y0 = 2.4

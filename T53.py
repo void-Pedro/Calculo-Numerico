@@ -1,3 +1,6 @@
+# Ajuste de e^(-x²) por polinômio de grau 4 via integração 
+# numérica da gaussiana pelo Método de Simpson
+
 import numpy as np
 from decimal import Decimal,getcontext
 

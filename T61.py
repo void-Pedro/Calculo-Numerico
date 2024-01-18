@@ -1,3 +1,5 @@
+# Discretização pelo método de Euler
+
 import numpy as np
 
 # Definir a equação diferencial x' = f(t, x)
